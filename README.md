@@ -1,5 +1,6 @@
 # Project-2-NDIS-Data
 
+This repository contains 
 
 Current data taken from:
 https://data.ndis.gov.au/explore-data
@@ -19,3 +20,8 @@ Note: Longitudinal data goes back to September 2020, (not earlier despite there 
 
 
 Low participant counts have been modified along with any related data to protect the privacy of the participants. The aggregated totals have not been modified.
+
+
+In pgAdmin:
+* Create a new database 'ndis_db'
+
